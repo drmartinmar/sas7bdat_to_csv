@@ -1,5 +1,3 @@
-# sas7bdat_to_csv
-
 # SAS to CSV Converter
 
 This project contains a Python script that converts a `.sas7bdat` file to a `.csv` file using the `pandas` and `sas7bdat` libraries.
